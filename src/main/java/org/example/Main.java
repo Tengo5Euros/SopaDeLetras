@@ -8,7 +8,7 @@ public class Main {
 
         int n1 = Integer.parseInt(temporal);
         int palabramaslarga=0;
-
+//nada
         int temporal2 = Integer.parseInt(temporal), temporal3;
         String[] palabra = new String[temporal2];
         Scanner input = new Scanner(System.in);
